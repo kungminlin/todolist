@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "to do list desktop app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kungminlin/todolist.git"
+  },
+  "author": "Kung-Min Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kungminlin/todolist/issues"
+  },
+  "homepage": "https://github.com/kungminlin/todolist#readme",
+  "dependencies": {
+    "electron": "^2.0.1"
+  }
+}
